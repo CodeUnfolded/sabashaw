@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabashaw
-- 👀 I’m interested in learning HTML, CSS, and Java
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in learning HTML, CSS, and JavaScript
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me, write me an email
 
